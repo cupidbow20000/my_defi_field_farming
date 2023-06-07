@@ -2,9 +2,7 @@
 
 This project focuses on developing a DeFi app which implements the concept of yield farming / liquidity mining based Dai token.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/22610163/104134982-2b389a00-539e-11eb-9ac7-642dbe48ec4d.gif">
-</p>
+
 
 Demo of the DApp with the screenshots can be found on [this wiki page](https://github.com/ahmetozlu/defi_yield_farming/wiki/Demo-of-the-DApp).
 
@@ -37,9 +35,6 @@ At its core, yield farming is a process that allows cryptocurrency holders to lo
 - It involves lending out cryptos via DeFi protocols in order to earn fixed or variable interest.
 - The rewards can be far greater than traditional investments, but higher rewards bring higher risks, especially in such a volatile market.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/22610163/118402446-91963780-b672-11eb-9574-12e19fb789f9.png" | width=720>
-</p>
 
 ## Application Software Architecture
 
